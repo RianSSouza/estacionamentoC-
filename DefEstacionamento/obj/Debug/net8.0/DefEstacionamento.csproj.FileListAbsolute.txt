@@ -1,0 +1,14 @@
+C:\Users\Rians\OneDrive\Área de Trabalho\DesafioDio\DefEstacionamento\bin\Debug\net8.0\DefEstacionamento.exe
+C:\Users\Rians\OneDrive\Área de Trabalho\DesafioDio\DefEstacionamento\bin\Debug\net8.0\DefEstacionamento.deps.json
+C:\Users\Rians\OneDrive\Área de Trabalho\DesafioDio\DefEstacionamento\bin\Debug\net8.0\DefEstacionamento.runtimeconfig.json
+C:\Users\Rians\OneDrive\Área de Trabalho\DesafioDio\DefEstacionamento\bin\Debug\net8.0\DefEstacionamento.dll
+C:\Users\Rians\OneDrive\Área de Trabalho\DesafioDio\DefEstacionamento\bin\Debug\net8.0\DefEstacionamento.pdb
+C:\Users\Rians\OneDrive\Área de Trabalho\DesafioDio\DefEstacionamento\obj\Debug\net8.0\DefEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rians\OneDrive\Área de Trabalho\DesafioDio\DefEstacionamento\obj\Debug\net8.0\DefEstacionamento.AssemblyInfoInputs.cache
+C:\Users\Rians\OneDrive\Área de Trabalho\DesafioDio\DefEstacionamento\obj\Debug\net8.0\DefEstacionamento.AssemblyInfo.cs
+C:\Users\Rians\OneDrive\Área de Trabalho\DesafioDio\DefEstacionamento\obj\Debug\net8.0\DefEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Rians\OneDrive\Área de Trabalho\DesafioDio\DefEstacionamento\obj\Debug\net8.0\DefEstacionamento.dll
+C:\Users\Rians\OneDrive\Área de Trabalho\DesafioDio\DefEstacionamento\obj\Debug\net8.0\refint\DefEstacionamento.dll
+C:\Users\Rians\OneDrive\Área de Trabalho\DesafioDio\DefEstacionamento\obj\Debug\net8.0\DefEstacionamento.pdb
+C:\Users\Rians\OneDrive\Área de Trabalho\DesafioDio\DefEstacionamento\obj\Debug\net8.0\DefEstacionamento.genruntimeconfig.cache
+C:\Users\Rians\OneDrive\Área de Trabalho\DesafioDio\DefEstacionamento\obj\Debug\net8.0\ref\DefEstacionamento.dll
